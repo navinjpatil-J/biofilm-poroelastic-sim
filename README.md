@@ -1,3 +1,6 @@
+$readmeAbs = "$PWD\README.md"
+
+@"
 # Biofilm Poroelastic Simulation Code
 
 Companion code for the manuscript:
@@ -32,40 +35,73 @@ sinks.
 
 ### Source code
 
-- `src/BiofilmPoroelasticSim.py` ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â Main simulation script (v2.8.0).
+<<<<<<< HEAD
+- `src/BiofilmPoroelasticSim.py` ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â Main simulation script (v2.8.0).
+=======
+- `src/BiofilmPoroelasticSim.py` - Main simulation script (v2.8.0).
+>>>>>>> 8fb8345eb5671ebc55f5fa8bc37105d9d80dcf2d
 
 ### Generated outputs (`biofilm_sim_outputs/`)
 
 #### Figure 2
 
-- `fig2AB_channel_demo.png` ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â Rendered Figure 2A, B.
-- `fig2AB_pressure_curves.csv` ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â Source data for Figure 2A curves.
-- `fig2CD_heatmap.png` ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â Rendered Figure 2C, D.
-- `fig2CD_tau_matrix.csv` ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â Source data for Figure 2C heatmap and 2D slices.
+<<<<<<< HEAD
+- `fig2AB_channel_demo.png` ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â Rendered Figure 2A, B.
+- `fig2AB_pressure_curves.csv` ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â Source data for Figure 2A curves.
+- `fig2CD_heatmap.png` ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â Rendered Figure 2C, D.
+- `fig2CD_tau_matrix.csv` ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â Source data for Figure 2C heatmap and 2D slices.
 
 #### Figure 3
 
-- `fig3A_regime_map.png` ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â Rendered Figure 3A.
-- `fig3A_literature_points.csv` ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â Literature-point placements for Figure 3A
+- `fig3A_regime_map.png` ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â Rendered Figure 3A.
+- `fig3A_literature_points.csv` ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â Literature-point placements for Figure 3A
   (illustrative order-of-magnitude placements; not fitted measurements).
-- `fig3BC_scaling_and_permeability.png` ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â Rendered Figure 3B, C.
-- `fig3B_tau_vs_L.csv` ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â Source data for the geometry-scaling diagnostic (3B).
-- `fig3C_tau_vs_k.csv` ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â Source data for the permeability diagnostic (3C).
+- `fig3BC_scaling_and_permeability.png` ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â Rendered Figure 3B, C.
+- `fig3B_tau_vs_L.csv` ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â Source data for the geometry-scaling diagnostic (3B).
+- `fig3C_tau_vs_k.csv` ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â Source data for the permeability diagnostic (3C).
 
 #### Supplementary
 
-- `fig_S1_validation.png` ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â Numerical validation against the exact
+- `fig_S1_validation.png` ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â Numerical validation against the exact
   Terzaghi series.
-- `validation_log.txt` ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â Console output of the publication-final run,
+- `validation_log.txt` ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â Console output of the publication-final run,
+=======
+- `fig2AB_channel_demo.png` - Rendered Figure 2A, B.
+- `fig2AB_pressure_curves.csv` - Source data for Figure 2A curves.
+- `fig2CD_heatmap.png` - Rendered Figure 2C, D.
+- `fig2CD_tau_matrix.csv` - Source data for Figure 2C heatmap and 2D slices.
+
+#### Figure 3
+
+- `fig3A_regime_map.png` - Rendered Figure 3A.
+- `fig3A_literature_points.csv` - Literature-point placements for Figure 3A
+  (illustrative order-of-magnitude placements; not fitted measurements).
+- `fig3BC_scaling_and_permeability.png` - Rendered Figure 3B, C.
+- `fig3B_tau_vs_L.csv` - Source data for the geometry-scaling diagnostic (3B).
+- `fig3C_tau_vs_k.csv` - Source data for the permeability diagnostic (3C).
+
+#### Supplementary
+
+- `fig_S1_validation.png` - Numerical validation against the exact
+  Terzaghi series.
+- `validation_log.txt` - Console output of the publication-final run,
+>>>>>>> 8fb8345eb5671ebc55f5fa8bc37105d9d80dcf2d
   including Terzaghi validation, calibration, regime placement and
   grid-refinement diagnostics.
 
 ### Other
 
-- `requirements.txt` ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â Python dependencies.
-- `LICENSE` ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â MIT licence.
-- `README.md` ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â This file.
-- `.gitignore` ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â Git ignore rules.
+<<<<<<< HEAD
+- `requirements.txt` ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â Python dependencies.
+- `LICENSE` ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â MIT licence.
+- `README.md` ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â This file.
+- `.gitignore` ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â Git ignore rules.
+=======
+- `requirements.txt` - Python dependencies.
+- `LICENSE` - MIT licence.
+- `README.md` - This file.
+- `.gitignore` - Git ignore rules.
+>>>>>>> 8fb8345eb5671ebc55f5fa8bc37105d9d80dcf2d
 
 ## How to reproduce the figures
 
@@ -73,6 +109,7 @@ sinks.
 
    ```bash
    pip install -r requirements.txt
+<<<<<<< HEAD
    ```
 
 2. From the repository root, run:
@@ -100,13 +137,15 @@ manuscript:
 > Patil, N. (2026). *Biofilms as Living Sponges: A Drainage-Regime
 > Framework for Mechanics, Transport and Intervention.*
 
-The exact software DOI (Zenodo) will be inserted here once minted ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â
+The exact software DOI (Zenodo) will be inserted here once minted ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â
 see the Releases section of this repository.
 
 ## License
 
-MIT ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â see `LICENSE` for the full text.
+MIT ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â see `LICENSE` for the full text.
 
 ## Contact
 
-Navinkumar Patil ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â corresponding author of the manuscript.
+Navinkumar Patil ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â corresponding author of the manuscript.
+=======
+>>>>>>> 8fb8345eb5671ebc55f5fa8bc37105d9d80dcf2d
