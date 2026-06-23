@@ -32,40 +32,40 @@ sinks.
 
 ### Source code
 
-- `src/BiofilmPoroelasticSim.py` Ã¢â‚¬â€ Main simulation script (v2.8.0).
+- `src/BiofilmPoroelasticSim.py` ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â Main simulation script (v2.8.0).
 
 ### Generated outputs (`biofilm_sim_outputs/`)
 
 #### Figure 2
 
-- `fig2AB_channel_demo.png` Ã¢â‚¬â€ Rendered Figure 2A, B.
-- `fig2AB_pressure_curves.csv` Ã¢â‚¬â€ Source data for Figure 2A curves.
-- `fig2CD_heatmap.png` Ã¢â‚¬â€ Rendered Figure 2C, D.
-- `fig2CD_tau_matrix.csv` Ã¢â‚¬â€ Source data for Figure 2C heatmap and 2D slices.
+- `fig2AB_channel_demo.png` ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â Rendered Figure 2A, B.
+- `fig2AB_pressure_curves.csv` ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â Source data for Figure 2A curves.
+- `fig2CD_heatmap.png` ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â Rendered Figure 2C, D.
+- `fig2CD_tau_matrix.csv` ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â Source data for Figure 2C heatmap and 2D slices.
 
 #### Figure 3
 
-- `fig3A_regime_map.png` Ã¢â‚¬â€ Rendered Figure 3A.
-- `fig3A_literature_points.csv` Ã¢â‚¬â€ Literature-point placements for Figure 3A
+- `fig3A_regime_map.png` ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â Rendered Figure 3A.
+- `fig3A_literature_points.csv` ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â Literature-point placements for Figure 3A
   (illustrative order-of-magnitude placements; not fitted measurements).
-- `fig3BC_scaling_and_permeability.png` Ã¢â‚¬â€ Rendered Figure 3B, C.
-- `fig3B_tau_vs_L.csv` Ã¢â‚¬â€ Source data for the geometry-scaling diagnostic (3B).
-- `fig3C_tau_vs_k.csv` Ã¢â‚¬â€ Source data for the permeability diagnostic (3C).
+- `fig3BC_scaling_and_permeability.png` ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â Rendered Figure 3B, C.
+- `fig3B_tau_vs_L.csv` ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â Source data for the geometry-scaling diagnostic (3B).
+- `fig3C_tau_vs_k.csv` ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â Source data for the permeability diagnostic (3C).
 
 #### Supplementary
 
-- `fig_S1_validation.png` Ã¢â‚¬â€ Numerical validation against the exact
+- `fig_S1_validation.png` ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â Numerical validation against the exact
   Terzaghi series.
-- `validation_log.txt` Ã¢â‚¬â€ Console output of the publication-final run,
+- `validation_log.txt` ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â Console output of the publication-final run,
   including Terzaghi validation, calibration, regime placement and
   grid-refinement diagnostics.
 
 ### Other
 
-- `requirements.txt` Ã¢â‚¬â€ Python dependencies.
-- `LICENSE` Ã¢â‚¬â€ MIT licence.
-- `README.md` Ã¢â‚¬â€ This file.
-- `.gitignore` Ã¢â‚¬â€ Git ignore rules.
+- `requirements.txt` ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â Python dependencies.
+- `LICENSE` ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â MIT licence.
+- `README.md` ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â This file.
+- `.gitignore` ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â Git ignore rules.
 
 ## How to reproduce the figures
 
@@ -100,13 +100,13 @@ manuscript:
 > Patil, N. (2026). *Biofilms as Living Sponges: A Drainage-Regime
 > Framework for Mechanics, Transport and Intervention.*
 
-The exact software DOI (Zenodo) will be inserted here once minted Ã¢â‚¬â€
+The exact software DOI (Zenodo) will be inserted here once minted ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â
 see the Releases section of this repository.
 
 ## License
 
-MIT Ã¢â‚¬â€ see `LICENSE` for the full text.
+MIT ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â see `LICENSE` for the full text.
 
 ## Contact
 
-Navinkumar Patil Ã¢â‚¬â€ corresponding author of the manuscript.
+Navinkumar Patil ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â corresponding author of the manuscript.

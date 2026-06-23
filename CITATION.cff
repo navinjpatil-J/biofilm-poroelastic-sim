@@ -22,8 +22,8 @@ authors:
     affiliation: Independent Researcher
 identifiers:
   - type: doi
-    value: 10.5281/zenodo.PLACEHOLDER
-    description: Software DOI (Zenodo) - to be inserted after first release
+    value: 10.5281/zenodo.20813797
+    description: Software DOI assigned by Zenodo for v2.8.0
 references:
   - type: article
     title: Biofilms as Living Sponges - A Drainage-Regime Framework for Mechanics, Transport and Intervention
