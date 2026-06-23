@@ -1,0 +1,14 @@
+label,L_eff_um,t_obs_s,category
+Klapper 02,100,1.0,flow/compression
+Stoodley 02,50,0.1,flow/shear
+Shaw 04,200,300.0,rheology
+Wilking (Glass),150,10.0,colony
+Wilking (Agar),150,3.0,colony
+Gloag 20,2,1.0,micro
+Körstgens 01,400,100.0,compression
+Towler 03,40,180.0,compression
+Kundukad 16,3,0.5,AFM
+Lau 09,2,0.5,micro
+Böl 13,500,60.0,compression
+Derlon 12,50,1000.0,hydraulic
+Moeendarbary 13*,5,2.0,cell reference

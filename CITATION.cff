@@ -1,0 +1,35 @@
+﻿cff-version: 1.2.0
+message: >
+  If you use this software, please cite both the manuscript
+  (Patil, 2026) and the software DOI assigned by Zenodo.
+type: software
+title: Biofilm Poroelastic Simulation Code
+version: 2.8.0
+date-released: 2026-06-23
+license: MIT
+repository-code: https://github.com/USERNAME/biofilm-poroelastic-sim
+keywords:
+  - biofilm mechanics
+  - poroelasticity
+  - viscoelasticity
+  - drainage regime
+  - hydraulic permeability
+  - extracellular matrix
+    
+authors:
+  - family-names: Patil
+    given-names: Navinkumar
+    affiliation: Independent Researcher
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.PLACEHOLDER
+    description: Software DOI (Zenodo) - to be inserted after first release
+references:
+  - type: article
+    title: Biofilms as Living Sponges - A Drainage-Regime Framework for Mechanics, Transport and Intervention
+    authors:
+      - family-names: Patil
+        given-names: Navinkumar
+    journal: Journal of the Royal Society Interface
+    year: 2026
+    status: submitted

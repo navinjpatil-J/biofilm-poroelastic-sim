@@ -1,0 +1,50 @@
+# ============================================================
+# Biofilm Poroelastic Simulation — gitignore
+# ============================================================
+
+# Python cache and compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+*.egg
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE / editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*.swn
+
+# Temporary / backup files
+*.tmp
+*.bak
+*.orig
+*~
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# ============================================================
+# IMPORTANT: Do NOT ignore the outputs folder.
+# The figures (PNG) and source data (CSV) in biofilm_sim_outputs/
+# are the deliverables we want to publish and DOI.
+# We intentionally keep them tracked in git.
+# ============================================================
+# (no rule for biofilm_sim_outputs/ — explicitly tracked)
