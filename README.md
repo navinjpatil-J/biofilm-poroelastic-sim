@@ -1,4 +1,4 @@
-# Biofilm Poroelastic Simulation Code
+﻿# Biofilm Poroelastic Simulation Code
 
 Companion code for the manuscript:
 
@@ -32,40 +32,40 @@ sinks.
 
 ### Source code
 
-- `src/BiofilmPoroelasticSim.py` — Main simulation script (v2.8.0).
+- `src/BiofilmPoroelasticSim.py` â€” Main simulation script (v2.8.0).
 
 ### Generated outputs (`biofilm_sim_outputs/`)
 
 #### Figure 2
 
-- `fig2AB_channel_demo.png` — Rendered Figure 2A, B.
-- `fig2AB_pressure_curves.csv` — Source data for Figure 2A curves.
-- `fig2CD_heatmap.png` — Rendered Figure 2C, D.
-- `fig2CD_tau_matrix.csv` — Source data for Figure 2C heatmap and 2D slices.
+- `fig2AB_channel_demo.png` â€” Rendered Figure 2A, B.
+- `fig2AB_pressure_curves.csv` â€” Source data for Figure 2A curves.
+- `fig2CD_heatmap.png` â€” Rendered Figure 2C, D.
+- `fig2CD_tau_matrix.csv` â€” Source data for Figure 2C heatmap and 2D slices.
 
 #### Figure 3
 
-- `fig3A_regime_map.png` — Rendered Figure 3A.
-- `fig3A_literature_points.csv` — Literature-point placements for Figure 3A
+- `fig3A_regime_map.png` â€” Rendered Figure 3A.
+- `fig3A_literature_points.csv` â€” Literature-point placements for Figure 3A
   (illustrative order-of-magnitude placements; not fitted measurements).
-- `fig3BC_scaling_and_permeability.png` — Rendered Figure 3B, C.
-- `fig3B_tau_vs_L.csv` — Source data for the geometry-scaling diagnostic (3B).
-- `fig3C_tau_vs_k.csv` — Source data for the permeability diagnostic (3C).
+- `fig3BC_scaling_and_permeability.png` â€” Rendered Figure 3B, C.
+- `fig3B_tau_vs_L.csv` â€” Source data for the geometry-scaling diagnostic (3B).
+- `fig3C_tau_vs_k.csv` â€” Source data for the permeability diagnostic (3C).
 
 #### Supplementary
 
-- `fig_S1_validation.png` — Numerical validation against the exact
+- `fig_S1_validation.png` â€” Numerical validation against the exact
   Terzaghi series.
-- `validation_log.txt` — Console output of the publication-final run,
+- `validation_log.txt` â€” Console output of the publication-final run,
   including Terzaghi validation, calibration, regime placement and
   grid-refinement diagnostics.
 
 ### Other
 
-- `requirements.txt` — Python dependencies.
-- `LICENSE` — MIT licence.
-- `README.md` — This file.
-- `.gitignore` — Git ignore rules.
+- `requirements.txt` â€” Python dependencies.
+- `LICENSE` â€” MIT licence.
+- `README.md` â€” This file.
+- `.gitignore` â€” Git ignore rules.
 
 ## How to reproduce the figures
 
@@ -98,16 +98,15 @@ If you use this code or the produced data, please cite the accompanying
 manuscript:
 
 > Patil, N. (2026). *Biofilms as Living Sponges: A Drainage-Regime
-> Framework for Mechanics, Transport and Intervention.* Submitted to
-> Journal of the Royal Society Interface.
+> Framework for Mechanics, Transport and Intervention.*
 
-The exact software DOI (Zenodo) will be inserted here once minted —
+The exact software DOI (Zenodo) will be inserted here once minted â€”
 see the Releases section of this repository.
 
 ## License
 
-MIT — see `LICENSE` for the full text.
+MIT â€” see `LICENSE` for the full text.
 
 ## Contact
 
-Navinkumar Patil — corresponding author of the manuscript.
+Navinkumar Patil â€” corresponding author of the manuscript.
