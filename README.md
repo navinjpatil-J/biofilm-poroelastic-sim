@@ -1,4 +1,4 @@
-﻿# Biofilm Poroelastic Simulation Code
+# Biofilm Poroelastic Simulation Code
 
 Companion code for the manuscript:
 
