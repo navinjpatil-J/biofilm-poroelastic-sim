@@ -26,11 +26,11 @@ identifiers:
     description: Software DOI assigned by Zenodo for v2.8.0
 references:
   - type: article
-    title: Biofilms as Living Sponges - A Drainage-Regime Framework for Mechanics, Transport and Intervention
+    title: Interfacial drainage regime as a coordinate linking biofilm mechanics and transport
     authors:
       - family-names: Patil
         given-names: Navinkumar
-    journal: Journal of the Royal Society Interface
+    journal: Applied Physics Reviews
     year: 2026
-    status: submitted
+    status: in-preparation/submitted
 
