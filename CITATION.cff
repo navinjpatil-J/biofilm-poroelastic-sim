@@ -20,6 +20,10 @@ authors:
   - family-names: Patil
     given-names: Navinkumar
     affiliation: Independent Researcher
+  - family-names: Sardiello
+    given-names: Maria Giulia
+  - family-names: Scaraggi
+    given-names: Michele
 identifiers:
   - type: doi
     value: 10.5281/zenodo.20813797
