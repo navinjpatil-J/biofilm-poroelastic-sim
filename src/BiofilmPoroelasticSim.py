@@ -3,8 +3,7 @@
 BiofilmPoroelasticSim.py — publication-ready final version (v2.8)
 ==================================================================
 Companion code for:
-"Biofilms as Living Sponges: A Drainage-Regime Framework for
- Mechanics, Transport, and Intervention".
+"Interfacial drainage regime as a coordinate linking biofilm mechanics and transport".
 
 SCOPE
 =====
