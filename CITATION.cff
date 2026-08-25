@@ -1,13 +1,21 @@
 cff-version: 1.2.0
+
 message: >
   If you use this software, please cite both the manuscript
-  (Patil, 2026) and the software DOI assigned by Zenodo.
+  (Patil, 2026) and the software Concept DOI assigned by Zenodo.
+
 type: software
+
 title: Biofilm Poroelastic Simulation Code
+
 version: 3.0.1
-date-released: 2026-08-24
+
+date-released: 2026-08-25
+
 license: MIT
-repository-code: https://github.com/navinjpatil-J/biofilm-poroelastic-sim
+
+repository-code: "https://github.com/navinjpatil-J/biofilm-poroelastic-sim"
+
 keywords:
   - biofilm mechanics
   - poroelasticity
@@ -15,26 +23,29 @@ keywords:
   - drainage regime
   - hydraulic permeability
   - extracellular matrix
-    
+
 authors:
   - family-names: Patil
     given-names: Navinkumar
     affiliation: Independent Researcher
+
   - family-names: Sardiello
     given-names: Maria Giulia
+
   - family-names: Scaraggi
     given-names: Michele
+
 identifiers:
   - type: doi
-    value: 10.5281/zenodo.20813797
-    description: Software DOI assigned by Zenodo for v2.8.0
+    value: "10.5281/zenodo.20813796"
+    description: Concept DOI for all software versions
+
 references:
   - type: article
     title: Interfacial drainage regime as a coordinate linking biofilm mechanics and transport
     authors:
       - family-names: Patil
         given-names: Navinkumar
-    journal: Applied Physics Reviews
+    journal: AIP - Applied Physics Reviews
     year: 2026
     status: in-preparation/submitted
-
