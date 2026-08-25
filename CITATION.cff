@@ -4,7 +4,7 @@ message: >
   (Patil, 2026) and the software DOI assigned by Zenodo.
 type: software
 title: Biofilm Poroelastic Simulation Code
-version: 2.8.0
+version: 3.0.1
 date-released: 2026-06-23
 license: MIT
 repository-code: https://github.com/navinjpatil-J/biofilm-poroelastic-sim
