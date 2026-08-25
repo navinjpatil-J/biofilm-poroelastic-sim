@@ -5,7 +5,7 @@ message: >
 type: software
 title: Biofilm Poroelastic Simulation Code
 version: 3.0.1
-date-released: 2026-06-23
+date-released: 2026-08-24
 license: MIT
 repository-code: https://github.com/navinjpatil-J/biofilm-poroelastic-sim
 keywords:
