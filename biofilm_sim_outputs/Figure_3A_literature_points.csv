@@ -1,0 +1,12 @@
+label,L_eff_um,t_obs_s,category,role
+Klapper 02,100,1.0,theoretical,viscoelastic-fluid model; symbolic protocol scale
+Stoodley 02,50,0.1,deformation,in situ shear-induced deformation study
+Shaw 04,200,300.0,rheology,bulk rheology; order-of-minutes viscoelastic relaxation
+Wilking 13,200,100.0,channel transport,agar-grown B. subtilis channel-transport reference
+Gloag 20,2,1.0,review,review-level micro-scale mechanics placement
+Körstgens 01,400,100.0,compression,uniaxial compression thickness and creep/yield window
+Towler 03,40,180.0,rheometry,rotating-disk rheometer creep window
+Kundukad 16,3,0.5,AFM,superficial AFM indentation scale
+Lau 09,2,0.5,AFM,microbead force spectroscopy hold window
+Derlon 16,50,1000.0,hydraulic,membrane-biofilm hydraulic resistance evolution
+Moeendarbary 13*,5,2.0,cell reference,cell-scale poroelastic reference; not a biofilm point
