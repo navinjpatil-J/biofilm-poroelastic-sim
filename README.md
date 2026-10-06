@@ -1,4 +1,4 @@
-# Biofilm Poroelastic Simulation Code
+﻿# Biofilm Poroelastic Simulation Code
 
 Companion code for the manuscript:
 
@@ -52,14 +52,15 @@ font changes text widths, not numbers.
 
 ## Citation
 
-If you use this software or the generated data, please cite the
-accompanying manuscript:
+If you use this software or the generated data, please cite both the
+accompanying manuscript and the archived software release.
 
 > Patil, N. (2026). *Interfacial drainage regime as a coordinate linking biofilm mechanics and transport.*
 
-The Concept DOI for all versions of this software is
-[10.5281/zenodo.20813796](https://doi.org/10.5281/zenodo.20813796).
-Zenodo assigns each release its own version DOI.
+> Patil, N., Sardiello, M. G., and Scaraggi, M. (2026). *Biofilm Poroelastic Simulation Code*, Version 3.1.0 [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.23180949
+
+The Zenodo Concept DOI for all versions of this software is:
+https://doi.org/10.5281/zenodo.20813796.
 
 ## License
 
@@ -68,3 +69,4 @@ MIT License. See [LICENSE](LICENSE) for the full license text.
 ## Contact
 
 Navinkumar Patil
+
