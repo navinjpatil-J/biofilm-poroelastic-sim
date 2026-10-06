@@ -1,4 +1,4 @@
-﻿# Biofilm Poroelastic Simulation Code
+# Biofilm Poroelastic Simulation Code
 
 Companion code for the manuscript:
 
@@ -69,4 +69,3 @@ MIT License. See [LICENSE](LICENSE) for the full license text.
 ## Contact
 
 Navinkumar Patil
-
