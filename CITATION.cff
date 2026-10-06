@@ -8,13 +8,22 @@ type: software
 
 title: Biofilm Poroelastic Simulation Code
 
-version: 3.0.1
+version: 3.1.0
 
-date-released: 2026-08-25
+date-released: 2026-10-06
 
 license: MIT
 
 repository-code: "https://github.com/navinjpatil-J/biofilm-poroelastic-sim"
+
+abstract: >-
+  Python code for the manuscript "Interfacial drainage regime as a
+  coordinate linking biofilm mechanics and transport". Three scripts
+  regenerate Figures 1-6 and Supplementary Figure S1 and write the data
+  plotted in each figure. The main script solves one-dimensional
+  Biot/Terzaghi pressure diffusion with hard and leaky interior sinks,
+  evaluates the Mandel-Cryer solution, and runs a synthetic
+  model-recovery study.
 
 keywords:
   - biofilm mechanics
@@ -48,4 +57,4 @@ references:
         given-names: Navinkumar
     journal: Applied Physics Reviews
     year: 2026
-    status: in-preparation/submitted
+    status: submitted

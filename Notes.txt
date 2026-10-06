@@ -1,0 +1,19 @@
+------------------------------------------------------- 
+
+
+BiofilmPoroelasticSim_V8 – the final refined code that is used in the AIP-APR-Revision1 copy
+This is the code with all the internal audit comments
+
+The upload copies with all the necessary comments but without internal audit comments are as follows (specifically for Github and Zenodo upload):
+Folder name: C:\Users\NAVIN\AppData\Local\Programs\Python\Python313\Scripts\The Living Sponge_Poroelasticity\AIP Final Submission\AIP-APR_Revision\Zenodo and GitHub Upload Copies
+Directory: C:\Users\NAVIN\AppData\Local\Programs\Python\Python313\Scripts\The Living Sponge_Poroelasticity\AIP
+    Final Submission\AIP-APR_Revision\Zenodo and GitHub Upload Copies
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----         10/6/2026  12:39 AM         100180 biofilm_poroelastic_sim.py
+-a----         10/6/2026  12:39 AM          20847 figure1_drainage_boundary_access.py
+-a----         10/6/2026  12:39 AM          24039 figure6_clinical_active_architecture.py
+
+

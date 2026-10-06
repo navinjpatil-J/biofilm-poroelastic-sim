@@ -1,0 +1,12 @@
+label,L_eff_um,t_obs_s,category,role,E_Pa,E_lo_Pa,E_hi_Pa,E_kind,E_status,E_source
+Klapper 02,100,10.0,deformation,in situ shear-induced deformation (flow cell) with viscoelastic-fluid model,64.67,43.64,85.7,"G = tau_w/strain, stepped wall-shear stress-strain test",reported,"apparent shear modulus G = 64.67 +/- 21.03 Pa, PAO1 grown at 5.1 N/m^2, n = 6 microcolonies, Table II (Klapper et al., 2002)"
+Stoodley 99,50,0.1,deformation,in situ shear-induced deformation study,26.0,17.0,40.0,E_app (structural deformation),reported,"E_app = 17-40 Pa for mixed- and pure-culture biofilms; G = 27 Pa for the mixed culture (Stoodley et al., 1999, abstract)"
+Shaw 04,200,300.0,rheology,bulk rheology; order-of-minutes viscoelastic relaxation,,,,,na-compilation,compilation paper; elastic shear moduli span 1e-2-1e6 Pa with ~18 min common relaxation; no single value extracted
+Wilking 13,200,100.0,channel transport,agar-grown B. subtilis channel-transport reference,,,,,na,transport study; no mechanical modulus reported
+Gloag 20,2,1.0,review,review-level micro-scale mechanics placement,,,,,na-review,review-level marker; no single value
+Körstgens 01,400,100.0,compression,uniaxial compression thickness and creep/yield window,,,,,na,compressive stress-strain to failure reported; numeric modulus not extractable from accessible text
+Towler 03,40,180.0,rheometry,rotating-disk rheometer creep window,2.2,0.2,24.0,"G (creep, Burger fit)",reported,"shear modulus G = 0.2-24 Pa from rheometer creep (Towler et al., 2003, abstract); Discussion gives G1 = 0.3-45 Pa"
+Kundukad 16,3,0.5,AFM,superficial AFM indentation scale,20.0,17.0,35.0,"E (AFM Hertz, superficial)",reported,"microcolonies 20 Pa, plains 35 Pa, size-matched 17 Pa; plains heterogeneity 20-1000 Pa (Kundukad et al., 2016)"
+Lau 09,2,0.5,AFM,microbead force spectroscopy hold window,50000.0,15000.0,170000.0,E1 instantaneous (MBFS),reported,"E1 = 1.5e4-1.7e5 Pa across strains (PAO1 early 1.7e5 Pa); delayed E2 up to 1.1e6 Pa (Lau et al., 2009)"
+Derlon 16,50,1000.0,hydraulic,membrane-biofilm hydraulic resistance evolution,,,,,na,hydraulic resistance and deformation study; no direct modulus reported
+Moeendarbary 13*,5,2.0,cell reference,cell-scale poroelastic reference; not a biofilm point,600.0,400.0,900.0,"E (AFM indentation, cells)",reported-cell-ref,"HeLa 0.9 +/- 0.4 kPa, HT1080 0.4 +/- 0.2 kPa, MDCK 0.4 +/- 0.1 kPa (Moeendarbary et al., 2013)"

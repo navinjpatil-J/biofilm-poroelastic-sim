@@ -1,0 +1,7 @@
+panel,key,value
+A,ve_fit_r2_to_pe_truth,0.99826
+B,slope_pe,2.0000
+B,slope_ve,0.0000
+B,slope_pve,1.5799
+C,max_curve_diff,1.110e-16
+C,conductance_ratio,10.0

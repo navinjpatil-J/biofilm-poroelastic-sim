@@ -1,0 +1,4 @@
+setting,L_min_um,L_max_um,t_min_s,t_max_s,tau_drain_min_s,tau_drain_max_s,Nd_min,Nd_max,k_background_m2,D_p_m2_s
+Device-associated biofilms,10.0,120.0,0.01,10.0,0.0128,1.85,0.00542,780,3.16e-16,3.16e-09
+Chronic wound biofilms,15.0,600.0,0.3,600.0,0.0288,46.1,0.0065,2.08e+04,3.16e-16,3.16e-09
+Airway mucus plugs or aggregates,200.0,10000.0,100.0,10000.0,5.13,1.28e+04,0.0078,1.95e+03,3.16e-16,3.16e-09
